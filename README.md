@@ -17,6 +17,8 @@ git clone #link del repositorio#
 
 # Instala las dependencias
 npm install
+#luego ejecuta con>
+npm run dev 
 #si no tuvieras axios
 npm install axios
 # tambien
